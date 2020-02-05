@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ed45db1-8eba-4538-a723-c21cc8e6749b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X9cd4zXhDUrrD4kGluBylnTPVO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Erik Svensson\IdeaProjects\CodingAssignment\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="se.ecutb.service" />
+      <recent name="se.ecutb.data" />
+      <recent name="se.ecutb" />
+      <recent name="se.ecutb.model" />
+      <recent name="se.ecutb.dto" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="se.ecutb.dto" />
+      <recent name="se.ecutb.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="se.ecutb in CodingAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.ecutb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.ecutb" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.se.ecutb in CodingAssignment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ed45db1-8eba-4538-a723-c21cc8e6749b" name="Default Changelist" comment="" />
+      <created>1580461834037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580461834037</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1034" y="271" key="#com.intellij.ide.util.MemberChooser" timestamp="1580473476228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1034" y="271" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1580473476228" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580885348920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1580462228839" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-87.1920.1040@-1920.-87.1920.1040" timestamp="1580831677630" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1580823948243" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580885348920" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580885348920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1580462228839" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-87.1920.1040@-1920.-87.1920.1040" timestamp="1580831677630" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1580823948242" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580885348920" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580885348920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1580462228838" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-87.1920.1040@-1920.-87.1920.1040" timestamp="1580831677630" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1580823948242" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580885348920" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580885348920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1580462228839" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-87.1920.1040@-1920.-87.1920.1040" timestamp="1580831677630" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1580823948243" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580885348920" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1580885369866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580885369866" />
+    <state x="-1600" y="0" width="1419" height="945" maximized="true" key="dock-window-1" timestamp="1580470901588">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1600" y="0" width="1419" height="945" maximized="true" key="dock-window-1/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1580470901588" />
+    <state x="-1600" y="0" width="1419" height="945" maximized="true" key="dock-window-2" timestamp="1580472366372">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1600" y="0" width="1419" height="945" maximized="true" key="dock-window-2/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1580472366372" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-3" timestamp="1580823056725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-3/0.0.1920.1040/-1920.-87.1920.1040@-1920.-87.1920.1040" timestamp="1580823056725" />
+  </component>
+</project>
