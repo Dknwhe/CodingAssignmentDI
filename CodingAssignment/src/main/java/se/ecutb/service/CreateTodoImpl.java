@@ -13,13 +13,13 @@ import java.util.List;
 
 
 @Component
-public class CreateTodo extends AbstractTodoFactory implements CreateTodoService {
+public class CreateTodoImpl extends AbstractTodoFactory implements CreateTodoService {
 
     private TodoRepository todoRepository;
     private IdSequencers idSequencers;
 
     @Autowired
-    public CreateTodo(TodoRepository todoRepository, IdSequencers idSequencers) {
+    public CreateTodoImpl(TodoRepository todoRepository, IdSequencers idSequencers) {
         this.todoRepository = todoRepository;
         this.idSequencers = idSequencers;
     }

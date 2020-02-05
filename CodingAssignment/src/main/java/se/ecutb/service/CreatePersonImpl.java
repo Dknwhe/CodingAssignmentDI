@@ -4,7 +4,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import se.ecutb.data.IdSequencers;
 import se.ecutb.data.PersonRepository;
-import se.ecutb.data.TodoRepository;
 import se.ecutb.model.AbstractPersonFactory;
 import se.ecutb.model.Address;
 import se.ecutb.model.Person;
@@ -13,7 +12,7 @@ import java.util.List;
 
 
 @Component
-public class CreatePerson extends AbstractPersonFactory implements CreatePersonService {
+public class CreatePersonImpl extends AbstractPersonFactory implements CreatePersonService {
 
     private IdSequencers idSequencers;
     private PersonRepository personRepository;
@@ -21,7 +20,7 @@ public class CreatePerson extends AbstractPersonFactory implements CreatePersonS
 
 
     @Autowired
-    public CreatePerson(IdSequencers idSequencers, PersonRepository personRepository) {
+    public CreatePersonImpl(IdSequencers idSequencers, PersonRepository personRepository) {
         this.idSequencers = idSequencers;
         this.personRepository = personRepository;
     }
@@ -39,6 +38,7 @@ public class CreatePerson extends AbstractPersonFactory implements CreatePersonS
 
     @Override
     public Person create(String firstName, String lastName, String email, Address address) throws IllegalArgumentException {
-    return null;
+    return create(firstName,lastName,email);
+            
     }
 }
